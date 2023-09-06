@@ -3,7 +3,10 @@
 This is a simple OpenGL ES 2.0 program simulating an attitude indicator. It uses GLFW for window management and rendering, featuring inner and outer circles, a stick, and arrow textures representing different components of the attitude indicator.
 
 
-https://github.com/ugurclikk/attitude_indicator_opengles20/assets/75498822/667f731b-49db-4203-a4d5-2499302ff3c8
+
+https://github.com/ugurclikk/attitude-indicator-opengles20/assets/75498822/2f51a472-4aa6-4053-a222-c0f92fb70131
+
+
 
 
 ## Prerequisites
